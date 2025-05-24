@@ -1,0 +1,33 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  font-family: 'IBM Plex Mono';
+  margin: 2em;
+  background:black;
+  cursor: url(https://cdn.glitch.com/66787a4d-b9c0-44aa-afff-cb449fa1a537%2Fcursorspoon!!.cur?v=1582377476276), auto;
+
+}
+
+h1 {
+  font-style: 'IBM Plex Mono';
+  color:limegreen;
+}
+h2{font-style: bold;
+color:limegreen}
+h3{color:darkgreen; }
+p{
+  color:grey;
+}
+div.wrap{
+  width: 800px;
+  margin: auto;
+}
+.backohgod{
+  position:absolute;
+    top:0;
+  left:0;
+  width:100%;
+  height:100%;
+  z-index:-10
+}
